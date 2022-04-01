@@ -1,4 +1,5 @@
 # WordPress网页嵌入Bilibili视频
+插入自定义HTML：  
 ```
 <iframe id="spkj" src="https://player.bilibili.com/player.html?aid=只需要修改这里就好啦&amp;page=1"
  width="100%" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen">
